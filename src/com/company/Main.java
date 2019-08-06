@@ -3,7 +3,7 @@ package com.company;
 import java.util.concurrent.CountDownLatch;
 
 public class Main {
-    // Количество всадников
+    // Количество клиентов у гида
     private static final int CLIENTS_COUNT = 15;
     // Объект синхронизации
     private static CountDownLatch LATCH;
